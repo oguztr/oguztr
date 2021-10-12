@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İ. Oğuzhan Şahin</h1>
 <h3 align="center">Just an ordinary developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.net backend**
+- 🌱 I’m currently learning **.net backend with HepsiBurada Bootcamp**
 
 - 📝 Want to start writing my blog
 
