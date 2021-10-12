@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.net backend**
 
-- 📝 I regularly write articles on [Wanna write](Wanna write)
+- 📝 Want to start writing my blog
 
 - 💬 Ask me about **anything**
 
